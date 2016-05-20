@@ -1,2 +1,7 @@
 # PHP Challenge
-Learn PHP for DevWeb module exam :) , Learn by doing.
+Learning PHP/MySQL, JQuery, Bootstrap by doing.
+## Project:
+Build a multilingual eComerce platfrom
+### Tools:
+* PhpStorm
+* XAMPP
